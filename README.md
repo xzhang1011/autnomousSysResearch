@@ -1,4 +1,4 @@
-# autnomousSysResearch
+# autonomousSysResearch
 
 ## Self-driving Cars in Browser Using Neuro.js
 -	Must install Node.js to use npm (node packet manager) 
